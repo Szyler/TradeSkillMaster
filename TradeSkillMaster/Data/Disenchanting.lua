@@ -1575,6 +1575,7 @@ data.disenchant = {
 }
 
 data.notDisenchantable = {
+	["item:4614:0:0:0:0:0:0"] = true,
 	["item:11290:0:0:0:0:0:0"] = true,
 	["item:11289:0:0:0:0:0:0"] = true,
 	["item:11288:0:0:0:0:0:0"] = true,
