@@ -701,5 +701,7 @@ TSM.enchantingItemIDs = {
 	[1968702] = 1204142, -- Scroll of Enchant Weapon - Overpowering Dread Precision
 	[1968770] = 1204143, -- Scroll of Enchant Weapon - Twisted Crusader
 	[1968771] = 1204144, -- Scroll of Enchant Weapon - Overpowering Twisted Crusader
+	[355107]  = 354313,  -- Scroll of Enchant 2H Weapon - Leyline Conduit
+	[20044]  = 46510,   -- Scroll of Enchant Weapon - Strider
 }
 	
